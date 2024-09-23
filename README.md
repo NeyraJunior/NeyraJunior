@@ -3,7 +3,7 @@
     <h3 >
         ¡Hola! Soy Junior Neyra
     </h3>
-    <img src="https://scontent.fpiu2-2.fna.fbcdn.net/v/t1.6435-9/138999296_2773430892877594_8118822413682297102_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEpK6Gw_sio3l6GyaEpXdDtc0afzGiz5p9zRp_MaLPmn7daImMoR0oWxvZpTMoE4pp4HPBreebIbdpBhCHRz-bv&_nc_ohc=RBREGdAXXT4AX9T48Ph&_nc_ht=scontent.fpiu2-2.fna&oh=00_AfBSpy6k7C8vyqp9J2z5mkE5ZUgtRxLVTwz0GaXL1EVLrA&oe=64B383A0" width="100" height="100">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEnP2vinRHJ9w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1665278974122?e=1732752000&v=beta&t=RliehvScGBFTBh03T0sxrDUAHn8cb-Hw49ZTZcIBEzc">
     <p>
         Un apasionado programador con experiencia en desarrollo de software. Me especializo en back end. Mi enfoque se centra en soluciones eficientes y escalables, calidad del código y trabajo en equipo.¡Estoy emocionado por los desafíos técnicos y listo para colaborar en proyectos interesantes! 
       <br>¡Saludos!
